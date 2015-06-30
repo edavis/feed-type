@@ -1,6 +1,6 @@
 # feed-type
 
-feed-type is a small, command-line utility that parses an XML URL and
+feed-type is a small, command-line utility that loads an XML URL and
 prints out whether it's an RSS or Atom feed.
 
 It's the end result of trying to learn more about XML parsing, type
