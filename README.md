@@ -17,4 +17,6 @@ atom
 
 ## Installation
 
+```shell
 $ go get github.com/edavis/feed-type
+```
