@@ -8,10 +8,12 @@ assertions, and command line flags in Go.
 
 ## Usage
 
+```shell
 $ feed-type -url http://hnrss.org/newest
 rss
 $ feed-type -url http://blog.golang.org/feed.atom
 atom
+```
 
 ## Installation
 
