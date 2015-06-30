@@ -10,7 +10,7 @@ assertions, and command line flags in Go.
 
 $ feed-type -url http://hnrss.org/newest
 rss
-$ feed-type -url https://groups.google.com/forum/feed/golang-nuts/topics/atom.xml
+$ feed-type -url http://blog.golang.org/feed.atom
 atom
 
 ## Installation
